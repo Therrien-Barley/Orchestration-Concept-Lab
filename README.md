@@ -117,7 +117,8 @@ One person from each team will pinup the teams best 3-5 ideas on the whiteboards
 
 
 
--------------------------------------------------
+***
+
 #### Working Lunch
 
 
@@ -138,7 +139,7 @@ __1:20 - 2:10p__
 
 Over lunch, teams will assemble their idea fragments into orchestrated experiences, filling out Brad's game cards.
 
--------------------------------------------------
+***
 
 
 
@@ -214,14 +215,16 @@ Storyboard drawings for a narrative combining X (how many?) ideas
 
 
 
--------------------------------------------------
+***
+
 #### Storytelling Challenge
 __4:15 - 4:30p__
 
 Who can weave the most compelling narrative through the most ideas?
 
 Prize for the winner.
--------------------------------------------------
+
+***
 
 
 
